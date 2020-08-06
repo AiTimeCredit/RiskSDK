@@ -1,0 +1,4 @@
+include ':app'
+include ':risk-ep'
+include ':risk_fy'
+rootProject.name = "RiskSDK"
